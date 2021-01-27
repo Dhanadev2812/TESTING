@@ -1,5 +1,8 @@
-public class regression test {
-  public static void main(String[] args){
-    System.out.println("Regression  test");
-  }
-}
+import java.io.*; 
+
+class reg { 
+	public static void main(String[] args) 
+	{ 
+		System.out.print("regression test"); 
+	} 
+} 
