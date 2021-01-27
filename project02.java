@@ -1,5 +1,5 @@
-public class regression test {
+public class sanity test {
   public static void main(String[] args){
-    System.out.println("Regression  test");
+    System.out.println("Sanity  test");
   }
 }
